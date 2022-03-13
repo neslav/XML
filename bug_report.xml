@@ -18,6 +18,6 @@
         <Priority>High</Priority>
         <Status>Open</Status>
         <Author>Yurchenko Viacheslav<Author>
-        <Sign to>Ololoshka Kekov</Sign to>
+        <Sign_to>Ololoshka Kekov</Sign_to>
         <Attachments>ссылка_на_картинку_или_видео_с_багом</Attachments>
   </bug_report>
