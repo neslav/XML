@@ -12,8 +12,8 @@
         </Enviroment>
         <Component>Кнопка Каталог</Component>
         <Build>0.5.7</Build>
-        <Actual result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</Actual result>
-        <Expected result>Нажатие кнопки Каталог перенаправляет на страницу Каталога</Expected result>
+        <Actual_result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</Actual_result>
+        <Expected_result>Нажатие кнопки Каталог перенаправляет на страницу Каталога</Expected_result>
         <Severity>Critical</Severity>
         <Priority>High</Priority>
         <Status>Open</Status>
